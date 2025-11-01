@@ -12,6 +12,12 @@ Vosk Çevrimdışı Konuşma Tanıma Motoru kullanılarak C# .NET Windows Forms 
 - **Hızlı Kurulum:** Doğrudan çalıştırılabilir (Executable) `.zip` dosyası ile kolay dağıtım.
 - **Gerçek Zamanlı Sonuç:** Konuştuğunuz metni anında ekranda gösterir.
 
+### Uygulama Görüntüsü  
+* Türçe Konuşma Tanıma:
+  <img width="1914" height="885" alt="Ekran görüntüsü 2025-11-01 174145" src="https://github.com/user-attachments/assets/acedd43a-821a-420e-a842-1ec2fa1b1adc" />
+* İngilizce Konuşma Tanıma:
+  <img width="1902" height="801" alt="Ekran görüntüsü 2025-11-01 174642" src="https://github.com/user-attachments/assets/421f3633-02cb-4758-a5a3-8e19e0489b99" />
+
 ## 🛠️ Teknolojiler
 
 - **Programlama Dili:** C#
